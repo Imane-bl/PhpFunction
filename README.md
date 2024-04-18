@@ -18,7 +18,7 @@
      - Function Advanced Training
     -- Unpacking In Arguments
 
-    Search
+    
     - PHP Variadic Functions
     - Splat Operator ..skills 
     #########
