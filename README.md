@@ -54,3 +54,7 @@
     --- Function Replaces With fn
     --- No Need For Curly Braces
     --- Return Is Omitted
+    ####################### Function
+    - Introduction And DRY Concept
+    - Parameter
+    - Argument
